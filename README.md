@@ -2,7 +2,7 @@
 soon
 ```
 
-supports almost every game but focused on:
+Supports almost every Game but focused on:
 >game
 >game
 >game

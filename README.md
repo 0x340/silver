@@ -1,1 +1,9 @@
-# 0x169641B8
+```lua
+soon
+```
+
+supports almost every game but focused on:
+>>> game
+>>> game
+>>> game
+>>> game

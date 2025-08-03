@@ -1,6 +1,6 @@
 # silver.lua
 ```lua
-loader soon
+loader soon...
 ```
 
 Supports almost every Game but focused on:
